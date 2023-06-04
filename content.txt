@@ -1,5 +1,7 @@
-This is the content from main made by Adrian. The content was updated recently.
+This is the content from main made by Adrian si Sorin. The content was updated recently.
 
 Added line on main.
+
+Added another line that didn't exist before.
 
 A new line.
