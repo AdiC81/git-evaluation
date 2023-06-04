@@ -1,1 +1,2 @@
 Dummy text inside work.txt
+Something that changed!
