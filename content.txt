@@ -3,5 +3,8 @@ This is the content from main made by Adrian si Sorin. The content was updated r
 Added line on main.
 
 Added another line that didn't exist before.
+This is the content from main made by Marius. The content was updated recently.
 
 A new line.
+
+This line never existed before!
